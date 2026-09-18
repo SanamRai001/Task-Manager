@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/readme/project-cover.svg" width="100%" alt="TASK MANAGER project cover"/>
+</p>
+
 # Task Manager
 
 A simple task manager app built with Node.js, Express, and MySQL to handle CRUD operations for managing tasks. This project serves as a basic example of a REST API using MVC architecture.
